@@ -15,7 +15,7 @@ header {
 }
 
 header h1 {
-	font-size: 24px;
+	font-size: 42px;
 	margin-left: 150px;
 }
 
@@ -26,7 +26,7 @@ header h1 {
 }
 
 .main-layout > div {
-	width: 504px;
+	width: 505px;
 	height: 300px;
 	border: 2px solid rgba(0, 0, 0, 1);
 	box-shadow: 10px 10px 17px -2px rgba(0,0,0,0.64);
